@@ -1,0 +1,97 @@
+
+1. Composition de l’équipe
+
+
+1- Salim Ben Salah 
+	- Code Permanent : BENS02089404
+	- Adresse courriel : salimbsk02@yahoo.ca
+	- Le meilleur moyen de communication : cell (514)577-6974
+	- Les disponibilités: 8am - 10pm
+	- Description: 
+		- Forces : discipliné dans la remise des travaux, bon sens des priorités.
+		- Faiblesse : À tendance à mettre trop de code dans une méthode, j’ai de la misère à me concentrer le matin.
+		- Compétences techniques : code lisible et significatif,  coordination de l’équipe.
+	- Identifiant github : @salimbsk02
+
+
+2- Yanis Waly Chérid
+	- Code Permanent : CHEY21129402
+	- Adresse courriel : cherid.yanis_waly@courrier.uqam.ca
+	- Le meilleur moyen de communication: cell (514)757-5857
+	- Les disponibilités: 8am - 10pm
+	- Description: 
+		- Forces : Facilité à s’adapter, bonne qualité du français, bonne organisation et discipline.
+		- Faiblesse : Parfois inattentif au nivaux de la syntaxe java, perfectionniste.
+		- Compétences techniques : capacité de debuger un programme avec facilité, bonne conception d’un plan de programme.
+	- Identifiant github : @ac191063
+
+
+3- Adel Ouldzeid
+	- Code Permanent : OULA01079704
+	- Adresse courriel : adel1997@hotmail.com
+	- Le meilleur moyen de communication : cell (438)889-4054
+	- Les disponibilités: Lun-Ven: 8am - 10pm, sam-dim: 6pm -10pm
+	- Description: 
+		- Forces : ponctualité, bonne éthique de travail d’équipe
+		- Faiblesse : écrit parfois du code redondant, peu se distraire facilement		    		
+	- Compétences techniques : bonne capacité de tester un programme, documente bien le code.
+	- Identifiant github : @AdelOuldzeid
+
+4- Michael Tran
+	- Code Permanent : TRAM15049709
+	- Adresse courriel : michaelsangtran@gmail.com
+	- Le meilleur moyen de communication : email
+	- Les disponibilités: 8am - 10pm
+	- Description: 
+		- Force : Prend de l’avance sur les travaux, autonome.
+		- Faiblesse : Ne maitrise pas totalement les commandes bash, précipite parfois les étapes de programmations. 
+		- Compétences techniques : S’adapte facilement aux IDE, rapidité à exécuté le code. 
+	- Identifiant github : @michaeluqam
+
+
+5- Hosni Abdelkrim
+	- Code Permanent : HOSA13119508
+	- Adresse courriel : hosni.abdelkrim@courrier.uqam.ca
+	- Le meilleur moyen de communication : Texto/téléphone (514)-758-4461
+	- Les disponibilités: Tout le temps en dehors de mes heures de travail et de cours.
+	- Description: 
+		- Force : Altruisme et générosité, capacité à repousser mes limites.
+		- Faiblesse : Pas suivie le cours INF1070, éprouve un peu de difficulté à s’adapter aux nouveaux IDE.
+		- Compétences techniques : Capacité à bien maintenir un code, capacité de trouver de nouvelles solutions afin d’innover.
+	- Identifiant github : @krimo995
+
+
+
+
+2. Charte de l’équipe :
+
+
+2.1 Répartition des tâches dans l’équipe :
+
+Pour chaque travail pratique que nous allons réaliser au cours de la session, nous allons répartir les tâches de façon équitable, selon les compétences techniques, les forces et les faiblesses de chaque membre de l’équipe. Ceci devra se faire par le biais des rencontres d’équipe prévues chaque semaine où l’avancement sur la réalisation des taches sera évaluée et discutée pour mener à bien l’accomplissement du projet.
+
+
+2.2 Méthode de travail que nous prévoyons utiliser :
+
+Pour chaque travail pratique que nous allons réaliser au cours de la session, nous prévoyons nous réunir au minimum une fois par semaine, afin de se renseigner chacun sur l’avancement du projet. De plus, pour chacun de ces travaux pratiques, nous allons concevoir un plan détaillé de conception de travail/programme (nombre de classes/méthodes/variables, leur nom, etc). Le but est de finir le projet au minimum une semaine avant la date ultime de remise du projet.
+
+
+2.3 Méthode de résolution de conflit que nous prévoyons utiliser :
+
+Nous prévoyons nous réunir, afin de communiquer et de régler le conflit en équipe. Si la communication ne règle pas le conflit, nous procéderons à un vote (en cas d’égalité des votes, nous tirerons à pile ou face).
+
+
+2.4 Sanctions prévues pour un membre de l'équipe qui ne remplit pas ses engagements :
+
+Si un membre de l’équipe ne remplie pas ses engagements :
+
+	- 1er sanction : Reçoit un avertissement verbale par l’équipe.
+
+	- 2e sanction : Se doit d’acheter un café pour chaque membre de l’équipe (un moyen ou grand café est requis selon la préférence des membres).
+
+	- 3e sanction : Est exclu de l’équipe.
+
+
+2.5 Notre définition de "Terminé" :
+
+Le travail est considéré comme terminé, lorsque toutes les tâches et tous les objectifs cité(e)s par le professeur dans les énoncés des travaux pratiques ont été atteint(e)s et accompli(e)s par l’équipe. Cela va de même pour les tâches de travail attribuées au sein de l’équipe; celles-ci sont considérées comme terminées lorsque tous les objectifs cités par la personne qui a attribué ces tâches ont été atteints et accomplis, aussi un projet est terminé lorsque chacun des membres de l’équipe est en accord avec sa finalité c’est à dire si un membre de l’équipe émet des réserves sur l’accomplissement du travail, toute l’équipe devra s’y pencher selon les termes convenu dans la charte de travail.
